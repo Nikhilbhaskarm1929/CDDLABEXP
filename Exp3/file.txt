@@ -1,0 +1,13 @@
+
+this is the branching lab
+
+i added new feature
+
+
+merge conflict on main
+this is the branching lab
+
+i added new feature
+
+bro i added another feature
+
